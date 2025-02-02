@@ -222,4 +222,9 @@ return {
 		label = 'Scrap Metal',
 		weight = 80,
 	},
+
+	['socialhousekey'] = {
+		label = 'Social house key',
+		weight = 80,
+	},
 }
